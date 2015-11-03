@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chairs]]></title>
+        <description><![CDATA[chairs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 14:23:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lounge Chair - Eames]]></title>
+            <description><![CDATA[<article><h1>Lounge Chair - Eames</h1><p>Design: 1956Production: 1956 to the presentManufacturer: Herman Miller FurnitureCompany, Zeeland, MichiganSize: 82 x 83 x 84;seat height 35 cm/42 x 65 x 53.5 cmsMaterial: bent plywood, rosewood veneer,blackened and polished cast aluminium,leather cushions, plastic, rubber Like many of the Eameses' furniture designs, the club chair "No.</p><img src="http://www.design-museum.de/fileadmin/_processed_/csm_LoungeChair_Eames_02_cfd59fd452.jpg"></article>]]></description>
+            <link>http://www.design-museum.de/en/collection/100-masterpieces/detailseiten/lounge-chair-eames.html</link>
+            <guid isPermaLink="false">b9cac6d8-2c1f-4efd-98c5-3a8e6af439fa</guid>
+            <pubDate>Tue, 03 Nov 2015 14:22:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
