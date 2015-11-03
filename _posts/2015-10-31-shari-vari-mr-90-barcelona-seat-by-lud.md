@@ -1,0 +1,41 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://randomitus.tumblr.com/post/84040853439/shari-vari-mr-90-barcelona-seat-by-ludwig-mies'
+inLanguage: en
+starred: false
+keywords:
+  - reblogged
+  - vrilarchitecture
+  - image
+  - twothousanddollarpurse
+  - click-through
+  - flourishandmajesty
+  - sugarmeows
+  - hawker-hunter73
+  - scrapbook
+  - woollymuffler
+description: 'shari-vari: MR 90 Barcelona Seat by Ludwig Mies van der Rohe'
+datePublished: '2015-11-03T14:22:39.028Z'
+dateModified: '2015-10-31T22:30:39.086Z'
+author:
+  - name: randomitus
+    url: 'http://randomitus.tumblr.com'
+    avatar: {}
+related: []
+app_links: []
+title: 'shari-vari: MR 90 Barcelona Seat by Lud...'
+sourcePath: _posts/2015-10-31-shari-vari-mr-90-barcelona-seat-by-lud.md
+published: true
+authors: []
+publisher:
+  name: Tumblr
+  domain: randomitus.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://33.media.tumblr.com/avatar_35edec578f7b_128.png'
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<article style=""><h1>MR 90 Barcelona Seat by Ludwig mies van der rohe</h1><p>MR 90 Barcelona Seat by Ludwig Mies van der Rohe</p><img src="http://41.media.tumblr.com/95aad636de0bc537c82ddf3f2b3d11c1/tumblr_myqdqgwGXv1to5o9fo1_1280.jpg" /></article>
