@@ -1,28 +1,40 @@
-name: chairs
 favicon: null
-layout_spectrum: 0.64964
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: chairs
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3308693692088127
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#4a3d44'
     - '#ef444a'
     - '#281125'
     - '#fdf1ba'
     - '#a1957d'
-  brandStrength: 0
-  lightness: 0.29832747345790267
-  saturation: 0.3308693692088127
-  rhythmicContrast: 1
-purpose: []
+  lightness: 0.2983274734579027
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5250896
+analytics:
+  twitter: null
+  google: null
+  facebook: null
