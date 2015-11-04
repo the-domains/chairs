@@ -4,8 +4,15 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 01:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 01:40:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://hivemodern.com/public_resources/panton-chair-verner-panton-vitra-6.jpg">]]></description>
+            <link>https://thegrid.ai/chairs/1f7a3ea1-1f3d-4642-9983-22cd3394fb96/index.html</link>
+            <guid isPermaLink="false">1f7a3ea1-1f3d-4642-9983-22cd3394fb96</guid>
+            <pubDate>Wed, 04 Nov 2015 01:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[eames® lounge chair & ottoman]]></title>
             <description><![CDATA[<article><h1>eames® lounge chair & ottoman</h1><p>Design Charles & Ray Eames, 1956 Molded plywood, aluminum, leather Made in USA by Herman Miller® "Who would say that pleasure is not useful?" -Charles Eames The Eames lounge chair and ottoman is the culmination of Charles and Ray Eames' efforts to create comfortable and handsome lounge seating by using production techniques that combine technology and handcraftsmanship.</p><img src="http://hivemodern.com/public_resources/eames-lounge-chair-ottoman-charles-and-ray-eames-herman-miller-1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>aeron® chair</h1><p>Aeron Task Chair by Bill Stumpf for Herman Miller. Combining distinctive looks with pioneering ergonomics, Aeron performs like no other chair. It adapts naturally and adjusts precisely to fit people of all sizes and postures doing all kinds of activities, all day long.. Competitive prices, free shipping.</p><img src="http://hivemodern.com/public_resources/aeronreg-chair-herman-miller-1.jpg"></article>]]></description>
             <link>http://hivemodern.com/pages/product1880/herman-miller-bill-stumpf-aeron-chair</link>
             <guid isPermaLink="false">cbe1c71e-d9ba-4e2d-94b0-604f1249539f</guid>
-            <pubDate>Wed, 04 Nov 2015 01:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[genni lounge chair]]></title>
-            <description><![CDATA[<article><h1>genni lounge chair</h1><p>Genni Lounge Chair 920 by Gabriele Mucchi for Zanotta. Competitive prices, free shipping.</p><img src="http://hivemodern.com/public_resources/genni-lounge-chair-gabriele-mucchi-zanotta-1.jpg"></article>]]></description>
-            <link>http://hivemodern.com/pages/product7755/genni-lounge-chair-gabriele-mucchi-zanotta</link>
-            <guid isPermaLink="false">8aa829e7-3692-41ae-a90d-08d4dd04cf45</guid>
             <pubDate>Wed, 04 Nov 2015 01:32:47 GMT</pubDate>
         </item>
     </channel>
