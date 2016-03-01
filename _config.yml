@@ -1,6 +1,6 @@
 name: chairs
 favicon: null
-layout_spectrum: 0.52756
+layout_spectrum: 0.17533
 typography_spectrum: 1
 collections:
   - index:
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4a3d44'
-    - '#ef444a'
-    - '#281125'
-    - '#fdf1ba'
-    - '#a1957d'
+    - '#1f232d'
+    - '#71a7ff'
+    - '#cde0ff'
+    - '#62656c'
+    - '#000000'
   brandStrength: 0.0625
   lightness: 0.5625
   saturation: 0.125
