@@ -4,7 +4,7 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 13:36:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -12,6 +12,13 @@
             <link>http://hivemodern.com/pages/product9092/ej100-ox-chair-ej100f-ottoman-hans-wegner-erik-jorgensen</link>
             <guid isPermaLink="false">9d545cda-9491-4394-930a-9d8160122f27</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ancestor Chair]]></title>
+            <description><![CDATA[<article><h1>Ancestor Chair</h1><p>Ancestor Chair is a minimalist design created by Toronto-based designer MSDS. The Ancestor lounge chair is based on an ancestor to the Windsor chair from the mid 1600's. The referenced chair predates the formalization of the Windsor into a type and was designed/made with easy of fabrication in mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/774c33be1aeacf3166de10f83d5c098ac067146f.jpg"></article>]]></description>
+            <link>http://leibal.com/furniture/ancestor-chair/</link>
+            <guid isPermaLink="false">78645a7b-46bc-497e-950e-e5020787534c</guid>
+            <pubDate>Thu, 07 Apr 2016 13:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://leibal.com/furniture/bike/</link>
             <guid isPermaLink="false">d906d429-768d-43b5-af01-e52fced27c8b</guid>
             <pubDate>Thu, 07 Apr 2016 13:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vitra chairs]]></title>
-            <description><![CDATA[<article><h1>Vitra chairs</h1><p>Two Vitra classics. Take a seat!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fd2935ca7b45e368e8c62d8df827db3b1b9267c.jpg"></article>]]></description>
-            <link>https://dribbble.com/shots/1414111-Vitra-chairs</link>
-            <guid isPermaLink="false">d897c712-a101-46cc-9aba-1561770d5e4e</guid>
-            <pubDate>Thu, 07 Apr 2016 13:25:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
