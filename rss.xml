@@ -4,7 +4,7 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 13:36:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -12,6 +12,13 @@
             <link>http://hivemodern.com/pages/product9092/ej100-ox-chair-ej100f-ottoman-hans-wegner-erik-jorgensen</link>
             <guid isPermaLink="false">9d545cda-9491-4394-930a-9d8160122f27</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loid]]></title>
+            <description><![CDATA[<article><h1>Loid</h1><p>Loid is a minimalist chair created by Berlin-based designer Geckeler Michels. Loid is a concept of a wooden dining and task chair, embracing advanced ergonomic requirements. It offers an active sitting experience through a frontal tilt movement and a gentle flexibility in the seat and back areas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/944344294b85543324483827ed01f91e92ffb414.jpg"></article>]]></description>
+            <link>http://leibal.com/furniture/loid/</link>
+            <guid isPermaLink="false">99b0ded2-154f-4e56-a5a9-d69d3dbc12a7</guid>
+            <pubDate>Thu, 07 Apr 2016 13:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ancestor Chair]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chorus</h1><p>Chorus is a minimalist chair designed by Stockholm-based designer Mattias Stenberg. The members of a Chorus line are not always colorful soloists, instead they are part of a group. They are all individuals with their own expression, and this is what makes the group dynamic interesting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d94c66bda829cade4e8b601db5b4184b8d37b3.jpg"></article>]]></description>
             <link>http://leibal.com/furniture/chorus/</link>
             <guid isPermaLink="false">253cd9f7-ebe8-4dcf-8973-b356c960eefd</guid>
-            <pubDate>Thu, 07 Apr 2016 13:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bike]]></title>
-            <description><![CDATA[<article><h1>Bike</h1><p>Bike is a minimalist design created by Stockholm-based designer Monica Förster. The chair is inspired from the bicycle and sporting worlds and I think it is both Scandinavian and international in its expression. Above all, my ambition was to emphasise the superior handcraft element, with elaborate attention to every detail in the choice of material, the stitching, and other aspects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d7d5de018596ef2fa6f417611d2799b7ba77da3.jpg"></article>]]></description>
-            <link>http://leibal.com/furniture/bike/</link>
-            <guid isPermaLink="false">d906d429-768d-43b5-af01-e52fced27c8b</guid>
             <pubDate>Thu, 07 Apr 2016 13:26:41 GMT</pubDate>
         </item>
     </channel>
