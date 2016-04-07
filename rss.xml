@@ -4,7 +4,7 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 13:26:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -12,6 +12,20 @@
             <link>http://hivemodern.com/pages/product9092/ej100-ox-chair-ej100f-ottoman-hans-wegner-erik-jorgensen</link>
             <guid isPermaLink="false">9d545cda-9491-4394-930a-9d8160122f27</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Womb chair]]></title>
+            <description><![CDATA[<article><h1>Womb chair</h1><p>Can I have one now tho? kthx</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28ec97e3cea305d7ff2e86116edf22139b9fd666.png"></article>]]></description>
+            <link>https://dribbble.com/shots/1770002-Womb-chair</link>
+            <guid isPermaLink="false">f25ac0d3-d6ab-40dd-9beb-dddcab32e924</guid>
+            <pubDate>Thu, 07 Apr 2016 13:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eames Armchair]]></title>
+            <description><![CDATA[<article><h1>Eames Armchair</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c24fe739d04d46773f897a2a56badcf4567eb10b.png"></article>]]></description>
+            <link>https://dribbble.com/shots/2252555-Eames-Armchair</link>
+            <guid isPermaLink="false">a6d5f2a2-8dd1-4c7d-94e9-2797f3d7afc4</guid>
+            <pubDate>Thu, 07 Apr 2016 13:25:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[odes-to-a-house: MARITIME - Benjamin Hu...]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/chairs/9f9db24f-797a-468c-ae31-f0538140b4af/index.html</link>
             <guid isPermaLink="false">9f9db24f-797a-468c-ae31-f0538140b4af</guid>
             <pubDate>Thu, 07 Apr 2016 13:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Van der Rohe]]></title>
-            <description><![CDATA[<article><h1>Van der Rohe</h1><p>MR 90 Barcelona Seat by Ludwig Mies van der Rohe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adc17f7168348eff459e199df8843e1a95633e6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chairs/van-der-rohe/index.html</link>
-            <guid isPermaLink="false">4616628a-34f4-4c11-a6bf-1f38b5f25414</guid>
-            <pubDate>Tue, 10 Nov 2015 02:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockheed Lounge - Newson]]></title>
-            <description><![CDATA[<article><h1>Lockheed Lounge - Newson</h1><p>Design: 1985 - 1958Production: 1988 - 1990 Manufacturer: Pod, SydneySize: 86 x 166 x 57 cmsMaterial: fiberglass, riveted sheet Aluminum The Australian designer Marc Newson has enjoyed international acclaim since 1985. The origins of his works are often associated with Sydney, his native city, where the sea is omnipresent, and with his hobby of surfing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da9186a3fadb7a5ac6eba62823cabc4dc701d8b0.jpg"></article>]]></description>
-            <link>http://www.design-museum.de/en/collection/100-masterpieces/detailseiten/lockheed-lounge-newson.html</link>
-            <guid isPermaLink="false">6c79fd45-e667-484f-8839-7f35c352fbfd</guid>
-            <pubDate>Wed, 04 Nov 2015 02:20:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
