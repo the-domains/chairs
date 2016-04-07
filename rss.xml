@@ -4,7 +4,7 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 13:27:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -12,6 +12,13 @@
             <link>http://hivemodern.com/pages/product9092/ej100-ox-chair-ej100f-ottoman-hans-wegner-erik-jorgensen</link>
             <guid isPermaLink="false">9d545cda-9491-4394-930a-9d8160122f27</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chorus]]></title>
+            <description><![CDATA[<article><h1>Chorus</h1><p>Chorus is a minimalist chair designed by Stockholm-based designer Mattias Stenberg. The members of a Chorus line are not always colorful soloists, instead they are part of a group. They are all individuals with their own expression, and this is what makes the group dynamic interesting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d94c66bda829cade4e8b601db5b4184b8d37b3.jpg"></article>]]></description>
+            <link>http://leibal.com/furniture/chorus/</link>
+            <guid isPermaLink="false">253cd9f7-ebe8-4dcf-8973-b356c960eefd</guid>
+            <pubDate>Thu, 07 Apr 2016 13:26:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bike]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chairs- Academy - BELLBOY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b11d9e8d54dbcc36f06eee533f8d26ab14e4f95f.jpg"></article>]]></description>
             <link>http://www.bellboynewyork.com/Chairs-Academy-1</link>
             <guid isPermaLink="false">304f6ce4-9469-48b3-a613-53940d0b6207</guid>
-            <pubDate>Thu, 07 Apr 2016 13:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FFFFOUND! | nonclickableitem]]></title>
-            <description><![CDATA[<article><h1>FFFFOUND! | nonclickableitem</h1><p>chinkone, turn, gradan, yodada, jol, chaim, maxcn, finalone, animated, fcicco, meanmug, candypingpong, dolan, memyself, amoxtli, somebodysoatmeal, slipandslap, robot-uprising, evdz, bandit, jensen, colourblind, krusnof, evagevaert, joeesco, yaer, nikolay, zimon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee3514e98f6f30462c8722d7d43f1f48ba357ecb.jpg"></article>]]></description>
-            <link>http://ffffound.com/image/5d537b578b2e55e724d78c183bac09f3fe38a95f</link>
-            <guid isPermaLink="false">8ac39e4c-22e3-4048-8d59-7c58a4120d4a</guid>
             <pubDate>Thu, 07 Apr 2016 13:25:38 GMT</pubDate>
         </item>
     </channel>
