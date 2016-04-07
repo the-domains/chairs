@@ -4,7 +4,7 @@
         <description><![CDATA[chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 13:26:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -12,6 +12,13 @@
             <link>http://hivemodern.com/pages/product9092/ej100-ox-chair-ej100f-ottoman-hans-wegner-erik-jorgensen</link>
             <guid isPermaLink="false">9d545cda-9491-4394-930a-9d8160122f27</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chairs- Academy - BELLBOY]]></title>
+            <description><![CDATA[<article><h1>Chairs- Academy - BELLBOY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b11d9e8d54dbcc36f06eee533f8d26ab14e4f95f.jpg"></article>]]></description>
+            <link>http://www.bellboynewyork.com/Chairs-Academy-1</link>
+            <guid isPermaLink="false">304f6ce4-9469-48b3-a613-53940d0b6207</guid>
+            <pubDate>Thu, 07 Apr 2016 13:25:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FFFFOUND! | nonclickableitem]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chairs/9a4682de-5527-4fa8-a5a5-d0d06d313769/index.html</link>
             <guid isPermaLink="false">9a4682de-5527-4fa8-a5a5-d0d06d313769</guid>
             <pubDate>Wed, 04 Nov 2015 02:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://36.media.tumblr.com/701a1fc60b4167bc44d8706442a28016/tumblr_mvr8cbdAhK1rcnu4ao1_1280.jpg">]]></description>
-            <link>https://thegrid.ai/chairs/ffb7e41b-9515-441a-9d3c-6c5cf073e114/index.html</link>
-            <guid isPermaLink="false">ffb7e41b-9515-441a-9d3c-6c5cf073e114</guid>
-            <pubDate>Wed, 04 Nov 2015 02:20:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
