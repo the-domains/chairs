@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chairs]]></title>
-        <description><![CDATA[chairs]]></description>
+        <title><![CDATA[Not All Chairs]]></title>
+        <description><![CDATA[Not All Chairs]]></description>
         <link>https://thegrid.ai/chairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 13:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 09:22:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chairs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hans wegner ej100 ox chair & ottoman]]></title>
@@ -67,13 +67,6 @@
             <description><![CDATA[<article><h1>Ray Chair</h1><p>Ray Chair is a minimalist design created by New York-based designer Lera Moiseeva. The higher a stem of a plant reaches to the light, the deeper its roots grow into the ground. The nature of this chair works according to the same principle; the five legs of the chair work as roots, that give life to the stable and firm seat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f31f2d771e9c3f2945a25fddec0001a4a5f94e8d.jpg"></article>]]></description>
             <link>http://leibal.com/furniture/ray-chair/</link>
             <guid isPermaLink="false">36676c17-fe65-4a44-8634-39e4e78ba362</guid>
-            <pubDate>Thu, 07 Apr 2016 13:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Chairs of Mid-Century Modern]]></title>
-            <description><![CDATA[<article><h1>The Chairs of Mid-Century Modern</h1><p>It's a new year and along with it comes a remarkable collection via Flickr from one my most-favorable categories: Mid-century Modern. These chairs come from the 50s, 60s, and 70s; while some lived ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4eec14a0d50f5cabfdd2d36263438e4256168ff.jpg"></article>]]></description>
-            <link>http://blog.wanken.com/7113/chairs-of-mid-century-modern/</link>
-            <guid isPermaLink="false">053bb9aa-045d-47fa-8bb8-c1ba614d941e</guid>
             <pubDate>Thu, 07 Apr 2016 13:35:51 GMT</pubDate>
         </item>
     </channel>
