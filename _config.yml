@@ -19,12 +19,16 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Nick Jones
+  email: nick@narrowdesign.com
+  url: 'http://narrowdesign.com'
 name: Chairs
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/63832e6e-0f41-4e75-a60e-2a808b01138b.jpg'
 collections:
   - index:
       path: /
